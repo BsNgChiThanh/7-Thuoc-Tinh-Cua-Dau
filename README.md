@@ -8,8 +8,8 @@
 6. Triệu chứng đi kèm
 7. Làm gì để đở đau.
 
-- **Trong y khoa nói đến đau thì phải mô tả đầy đủ 7 thuộc tính này.**
-- Ví dụ:
+**Trong y khoa nói đến đau thì phải mô tả đầy đủ 7 thuộc tính này.**
+## Ví dụ: ##
 ### A. MÔ TẢ CƠN ĐAU NGỰC ĐIỂN HÌNH CỦA NHỒI MÁU CƠ TIM: ###
 1. Hoàn cảnh khởi phát: **Khởi phát sau một gắng sức.**
 2. Vị trí: **Đau vùng trước tim, vùng thượng vị.**
