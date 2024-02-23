@@ -27,3 +27,13 @@
 5. Thời gian: **Kéo dài nhiều giờ**
 6. Triệu chứng đi kèm: **Gần như 100% kèm theo nôn ói ở lần viêm tụy đầu tiên, các lần viêm tụy sau không còn điển hình nữa.**
 7. Làm gì để đở đau: **Có tư thế giảm đau: cò súng, trồng cây chuối**
+
+### C. ĐÁNH GIÁ ĐAU BẰNG CÔNG CỤ "OLDCARTS" ###
+1. O (Onset): Khởi như thế nào - nhanh hay chậm?
+2. L (Location): Vị trí, hướng lan?
+3. D (Duration): Kéo dài bao lâu - cấp hay mạn, tần suất?
+4. C (Characteristics): Đặc điểm, tính chất, mức độ đau?
+5. A (Aggravating): Yếu tố làm tăng?
+6. R (Relieving factors): Yếu tố làm giảm?
+7. T (Treatment): Điều trị?
+8. S (Severity): Mức độ ảnh hưởng đến chức năng hoạt động hằng ngày?
