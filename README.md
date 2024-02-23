@@ -6,7 +6,7 @@
 4. Hướng lan
 5. Thời gian
 6. Triệu chứng đi kèm
-7. Làm gì để đở đau.
+7. Làm gì để đở đau (Yếu tố tăng - giảm).
 
 **Trong y khoa nói đến đau thì phải mô tả đầy đủ 7 thuộc tính này.**
 ## Ví dụ: ##
@@ -17,7 +17,7 @@
 4. Hướng lan: **Lan lên vai trái,cằm trái, ngón 4 và 5 bàn tay trái, lan ra sau lưng.**
 5. Thời gian: **Kéo dài > 20 phút**
 6. Triệu chứng đi kèm: **Vã mồ hôi, tay chân lạnh, nôn ói.**
-7. Làm gì để đở đau: **Không có tư thế giảm đau, đau không giảm khi nghỉ ngơi hoặc dùng nitrate.**
+7. Làm gì để đở đau (Yếu tố tăng - giảm): **Không có tư thế giảm đau, đau không giảm khi nghỉ ngơi hoặc dùng nitrate.**
 
 ### B. MÔ TẢ CƠN ĐAU ĐIỂN HÌNH CỦA VIÊM TỤY CẤP: ###
 1. Hoàn cảnh khởi phát: **Sau bữa ăn thịnh soạn gồm có: rượu bia, dầu mỡ, trứng.**
