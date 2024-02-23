@@ -10,7 +10,7 @@
 
 **Trong y khoa nói đến đau thì phải mô tả đầy đủ 7 thuộc tính này.**
 ## Ví dụ: ##
-### A. MÔ TẢ CƠN ĐAU NGỰC ĐIỂN HÌNH CỦA NHỒI MÁU CƠ TIM: ###
+### Ví dụ 1: MÔ TẢ CƠN ĐAU NGỰC ĐIỂN HÌNH CỦA NHỒI MÁU CƠ TIM: ###
 1. Hoàn cảnh khởi phát: **Khởi phát sau một gắng sức.**
 2. Vị trí: **Đau vùng trước tim, vùng thượng vị.**
 3. Cường độ: **Đau liên tục, đau dữ dội, đau như bóp nghẹt, đau như nóng rát...**
@@ -19,7 +19,7 @@
 6. Triệu chứng đi kèm: **Vã mồ hôi, tay chân lạnh, nôn ói.**
 7. Làm gì để đở đau (Yếu tố tăng - giảm): **Không có tư thế giảm đau, đau không giảm khi nghỉ ngơi hoặc dùng nitrate.**
 
-### B. MÔ TẢ CƠN ĐAU ĐIỂN HÌNH CỦA VIÊM TỤY CẤP: ###
+### Ví dụ 2: MÔ TẢ CƠN ĐAU ĐIỂN HÌNH CỦA VIÊM TỤY CẤP: ###
 1. Hoàn cảnh khởi phát: **Sau bữa ăn thịnh soạn gồm có: rượu bia, dầu mỡ, trứng.**
 2. Vị trí: **Vùng thượng vị**
 3. Cường độ: **Đau dữ dội**
